@@ -6,6 +6,10 @@
 4. Timéo, martin, yaël, Adrien, omar
 5. Geoffroy, Tomy, Matthieu, Antony, Hugo
 
+## Docs utiles
+
+- https://docs.ethers.org/v5/getting-started/
+
 ## TP 1
 
 *Note : Chance de trouver un compte spécifique : 1 sur 6000000000000000000000000000000000000000000000000000000000*
