@@ -1,0 +1,19 @@
+.separationInformation{
+    border: 2 px solid;
+}
+
+.tableauInfo{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 2em;
+}
+
+.connectionInformation
+{
+    width: 10%;
+}
+
+.onlineInformation
+{
+    background-color: greenyellow;
+}
