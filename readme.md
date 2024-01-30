@@ -8,6 +8,8 @@
 
 ## TP 1
 
+*Note : Chance de trouver un compte spécifique : 1 sur 6000000000000000000000000000000000000000000000000000000000*
+
 Première étape, Mettre en place le HTML/CSS/JS de base, cf image.
 Attention : utilisation des branches et de gitmoji !
 
