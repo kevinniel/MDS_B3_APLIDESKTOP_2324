@@ -1,0 +1,42 @@
+button{
+    border: 0px;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.scanner,
+.infos,
+.accounts{
+    padding: 1rem 2rem;
+    background-color: rgba(207, 207, 207, 0.565);
+    border-radius: 5px;
+}
+
+.start{
+    background-color: green;
+}
+
+.found{
+    background-color: blue;
+}
+.without{
+    background-color: red;
+}
+.with{
+    background-color: green;
+}
+
+.stats{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.count{
+    padding: .2rem .5rem;
+    background-color: grey;
+    border-radius: 5px;
+    margin-left: 10px;
+}
